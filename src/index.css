@@ -171,3 +171,5 @@ body { font-family: 'DM Sans', sans-serif; background-color: var(--cream); color
   /* Skills */
   .skills-grid { grid-template-columns: 1fr 1fr; gap: 0.75rem; }
 }
+
+
